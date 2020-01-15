@@ -1,3 +1,3 @@
 # AndroidKotlin2020
 
-Repository for the Kotlin training.
+Repository for the Android Kotlin training.
